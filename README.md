@@ -1,16 +1,15 @@
 # Named Entity Recognition
 
-## AIM
+## AIM:
 
 To develop an LSTM-based model for recognizing the named entities in the text.
 
-## Problem Statement and Dataset
+## Problem Statement and Dataset:
+## Neural Network Model:
 
-## Neural Network Model
 
-Include the neural network model diagram.
 
-## DESIGN STEPS
+## DESIGN STEPS:
 
 ### STEP 1:
 
@@ -18,19 +17,19 @@ Include the neural network model diagram.
 
 ### STEP 3:
 
-Write your own steps
 
-## PROGRAM
+## PROGRAM:
+```python
 
-Include your code here
 
-## OUTPUT
+```
 
-### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+## OUTPUT:
 
-### Sample Text Prediction
-Include your sample text prediction here.
+### Training Loss, Validation Loss Vs Iteration Plot:
 
-## RESULT
+
+### Sample Text Prediction:
+
+## RESULT:
