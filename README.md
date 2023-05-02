@@ -8,6 +8,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 We aim to develop an LSTM-based neural network model using Bidirectional Recurrent Neural Networks for recognizing the named entities in the text. Bidirectional Recurrent Neural Networks connect two hidden layers of opposite directions to the same output. With this form of generative deep learning, the output layer can get information from past and future states simultaneously.
 ## Neural Network Model:
 
+![image](https://user-images.githubusercontent.com/94164665/235589516-95a76cd8-dadd-4c23-978e-3b7ebb5f2fac.png)
 
 
 ## DESIGN STEPS:
