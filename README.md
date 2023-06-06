@@ -1,4 +1,4 @@
-# Named Entity Recognition
+# EX06--Named Entity Recognition
 
 ## AIM:
 
